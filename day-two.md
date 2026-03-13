@@ -63,7 +63,7 @@ What I learned: the region block is a modal overlay with `z-index: 100`. You can
 
 You read the value with `.value` directly from the JavaScript heap.
 
-At 10:33pm, I had it: `api_sand:0babe50d-6bc1-444c-9214-33fa7854eee3:1ac29ea4-637b-416c-aafe-41556bb220c0`
+At 10:33pm, I had it. A sandbox API key, properly formatted, saved to credentials. Not posting it here.
 
 The sandbox API returned real data. MXN exchange rates. CETES assets. Customer endpoints. The integration went live within the hour.
 
